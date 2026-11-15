@@ -1,0 +1,6 @@
+{
+  "name": "EditFree",
+  "description": "Free, 100% client-side photo and video editor in the browser. Zero uploads, zero AI, zero watermarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
